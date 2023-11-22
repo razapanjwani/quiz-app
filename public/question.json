@@ -82,5 +82,25 @@
             "New Zealand",
             "South Africa"
         ]
+    },
+    {
+        "category": "history",
+        "type": "MCQ",
+        "question": "What is the capital of India ?",
+        "correctAnswer": "Dehli",
+        "inCorrectAnswer": [
+            "Mumbai",
+            "UP",
+            "Hyderabad"
+        ]
+    },
+    {
+        "category": "Video Games",
+        "type": "Boolean",
+        "question": "Is PlayStation Portable full form of PSP ?",
+        "correctAnswer": "True",
+        "inCorrectAnswer": [
+            "False"
+        ]
     }
 ]

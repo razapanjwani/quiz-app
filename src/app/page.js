@@ -60,7 +60,7 @@ export default function Home() {
       <div className={`${styles["app-container"]}`}>
       {completedQuiz? 
       ( 
-        <section className='score-div'>
+        <section className={`${styles['quiz-score']} score-div`}>
           <h2>your score is {calculatePercentage(quizScore,questions.length)} %</h2>
           <button onClick={()=>{initialState()}}>PLAY AGAIN</button>
         </section>
@@ -74,7 +74,6 @@ export default function Home() {
             <Question Question={currentQuestion} nextQuestion={handleNextQuestion} handleScore ={handleQuizScore} currentNumber={currentIndex + 1} questionCount={questions.length}/>
             <Scorebar quizScore={quizScore} questionCount={questions.length}/>
             </div>
-          
         </>
       )
       }

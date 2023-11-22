@@ -2,7 +2,9 @@
         let res 
         let data
     try {
-        res = await fetch("/question.json")
+        res = await fetch("/question.json",{
+            cache:"no-store"
+        })
         data= await res.json()
         return data   
     } catch (error) {
