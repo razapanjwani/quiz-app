@@ -1,0 +1,86 @@
+[
+    {
+        "category": "Video Games",
+        "type": "MCQ",
+        "question": "what was the year when GTA5 was released ?",
+        "correctAnswer": "2013",
+        "inCorrectAnswer": [
+            "2014",
+            "2015",
+            "2012"
+        ]
+    },
+    {
+        "category": "Sports/Cricket",
+        "type": "MCQ",
+        "question": "Captain of Pakistan in 1992 cricket world cup ?",
+        "correctAnswer": "Imran Khan",
+        "inCorrectAnswer": [
+            "Moin Khan",
+            "Wasim Akram",
+            "Ramiz Raja"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "MCQ",
+        "question": "Where is the highest mountain peak located ?",
+        "correctAnswer": "Nepal",
+        "inCorrectAnswer": [
+            "Pakistan",
+            "India",
+            "China"
+        ]
+    },
+    {
+        "category": "history",
+        "type": "MCQ",
+        "question": "What is the capital of Pakistan ?",
+        "correctAnswer": "Islamabad",
+        "inCorrectAnswer": [
+            "Karachi",
+            "Lahore",
+            "KPK"
+        ]
+    },
+    {
+        "category": "Video Games",
+        "type": "Boolean",
+        "question": "Is Call-Of-Duty a first person shooter game ?",
+        "correctAnswer": "True",
+        "inCorrectAnswer": [
+            "False"
+        ]
+    },
+    {
+        "category": "Sports/Football",
+        "type": "MCQ",
+        "question": "Who won the 2022 FIFA world cup ?",
+        "correctAnswer": "Argentina",
+        "inCorrectAnswer": [
+            "Portugal",
+            "France",
+            "Pakistan"
+        ]
+    },
+    {
+        "category": "history",
+        "type": "Boolean",
+        "question": "Is 'Islamic Republic Of Pakistan' the full name of pakistan?",
+        "correctAnswer": "True",
+        "inCorrectAnswer": [
+            "False"
+        ]
+    },
+    {
+        "category": "Sports/Cricket",
+        "type": "MCQ",
+        "question": "Who won the cricket world cup 0f 2023 ?",
+        "correctAnswer": "Australia",
+        "inCorrectAnswer": [
+            "India",
+            "New Zealand",
+            "South Africa"
+        ]
+    }
+]
